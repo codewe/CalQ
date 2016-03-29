@@ -1,7 +1,7 @@
-**CalQ**
+# CalQ
 ATM and MPESA Locator. ATM and MPESA Calculator. Built as part of MSC at Strathmore
 
-**Running**
+## Running
 This API is built on PHP using Lumen 5.
 Clone the repo and run 
 
